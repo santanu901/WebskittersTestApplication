@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebskittersTestApplication</string>
+    <string name="hint_login">Login</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_firstname">Firstname</string>
+    <string name="hint_submit">Submit</string>
+    <string name="hint_lastname">Lastname</string>
+    <string name="no_data_found">No Data Found</string>
+</resources>

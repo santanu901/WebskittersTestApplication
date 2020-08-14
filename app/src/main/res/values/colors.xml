@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#D50000</color>
+
+    <color name="gray_color">#504e57</color>
+    <color name="login_edit_text_background_color">#2E2E33</color>
+    <color name="edit_button_color">#69CF68</color>
+    <color name="login_button_color">#FB0000</color>
+    <color name="list_background_color">#222226</color>
+</resources>
